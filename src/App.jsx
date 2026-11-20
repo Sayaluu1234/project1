@@ -1,18 +1,18 @@
 
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import AuthProvider from "./context/AuthContext";
 import CartProvider from "./context/CartContext";
 import AppRoutes from "./routes/approutes";
 
 function App() {
   return (
-    <BrowserRouter basename="/project1">
+    <HashRouter>
       <AuthProvider>
         <CartProvider>
           <AppRoutes />
         </CartProvider>
       </AuthProvider>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
