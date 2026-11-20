@@ -1,16 +1,43 @@
-# React + Vite
+🌱 AgriMarket Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AgriMarket is a web-based agricultural marketplace that connects farmers and customers through an online platform.
 
-Currently, two official plugins are available:
+🚀 Features
+User Registration and Login
+Firebase Authentication
+Product Management
+Add and Display Agricultural Products
+Product Data Storage using Firebase
+Responsive User Interface
+🛠️ Technologies Used
+React.js
+JavaScript
+HTML5
+CSS3
+Firebase Authentication
+Firebase Database
+GitHub Pages
+🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Open AgriMarket Website
 
-## React Compiler
+💻 Installation
+Clone the repository:
+bash
+git clone YOUR_GITHUB_REPOSITORY_LINK
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Navigate to the project folder:
+bash
+cd project1
 
-## Expanding the ESLint configuration
+Install dependencies:
+bash
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Start the development server:
+bash
+npm start
+
+👩‍💻 Developer
+
+Developed as a project to provide an online platform for agricultural product management.
