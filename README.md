@@ -24,7 +24,7 @@ Open AgriMarket Website
 💻 Installation
 Clone the repository:
 bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://sayaluu1234.github.io/project1/orders
 
 Navigate to the project folder:
 bash
